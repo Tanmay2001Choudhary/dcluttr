@@ -14,7 +14,7 @@ This is the **frontend dashboard** for Task 1. It is made using modern React too
 
 ## Features
 
-- **Charts** for data visualization (product distribution, pricing, etc.)
+- **Charts** for data visualization
 - Clean and interactive **UI with Lucide icons**
 - Fully **responsive layout** using Tailwind CSS
 - Built to plug in data from the backend scraper (CSV/API)
