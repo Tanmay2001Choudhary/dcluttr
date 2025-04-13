@@ -1,6 +1,6 @@
 # 🛠️ Blinkit Scraper Dashboard – Task 1 (Frontend)
 
-This is the **frontend dashboard** for Task 1. It is made using modern React tooling, interactive charts, and a responsive design.
+This is the **frontend dashboard** for Task 1. It is made using modern React tooling and interactive charts.
 
 ## ⚙️ Tech Stack
 
@@ -8,16 +8,15 @@ This is the **frontend dashboard** for Task 1. It is made using modern React too
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/) + custom CSS
 - **Icons:** [Lucide React](https://lucide.dev/)
 - **Charts:** [Recharts](https://recharts.org/en-US/)
-- **Components:** Built with reusable and responsive design in mind
+- **Components:** Built with reusable and figma design in mind
 
 ---
 
 ## Features
 
-- **Charts** for data visualization
+- **Charts** for data visualization (product distribution, pricing, etc.)
 - Clean and interactive **UI with Lucide icons**
-- Fully **responsive layout** using Tailwind CSS
-- Built to plug in data from the backend scraper (CSV/API)
+- Tailwind and CSS
 
 ---
 
